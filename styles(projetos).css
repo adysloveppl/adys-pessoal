@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #ccc;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #444;
+    color: white;
+    padding: 20px;
+    font-size: 22px;
+}
+
+section {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+    background-color: #222;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(255,255,255,0.1);
+}
+
+/* Imagem do projeto */
+img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(255,255,255,0.2);
+}
+
+/* Link de volta */
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #777;
+}
+
+footer {
+    background-color: #444;
+    color: white;
+    padding: 15px;
+    margin-top: 40px;
+}
